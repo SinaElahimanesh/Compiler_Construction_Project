@@ -1,0 +1,9 @@
+public enum Literals {
+    T_ID,
+    T_INTLITERAL,
+    T_DOUBLELITERAL,
+    T_STRINGLITERAL,
+    T_BOOLEANLITERAL,
+    NOT_LITERAL,
+    COMMENT_LITERAL
+}
